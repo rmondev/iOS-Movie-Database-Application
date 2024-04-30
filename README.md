@@ -1,8 +1,6 @@
 # iOS Movie Database Application
 
-This is a movie database application I created to practice local application database management using CoreData.
-
-The app also showcases search bar, swipe functionality and alert popups.
+This is a movie database application I created to practice and showcases search bar functionality, swipe functionality and alert controllers.
 
 ## Features
 
