@@ -50,6 +50,7 @@ A simple yet effective welcome screen that welcomes users to the app.
 
 - **Functionality**: Implement swipe-to-delete functionality in the table view, allowing users to swipe on a movie cell to reveal a delete option.
 
+https://github.com/rmondev/iOS-Movie-Database-Application/assets/85075744/36587d49-2b4a-4086-a300-32e5b686eda4
 
 - **Result**: When the user confirms deletion, remove the Movie object from the local data source and update the table view.
 
@@ -71,5 +72,7 @@ A simple yet effective welcome screen that welcomes users to the app.
 ## App Demo Video
 
 See the app in action with this demonstration video:
+
+https://github.com/rmondev/iOS-Movie-Database-Application/assets/85075744/37cc9598-c676-443f-97d5-4f937086d9f4
 
 
