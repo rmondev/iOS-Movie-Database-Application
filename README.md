@@ -49,15 +49,9 @@ A simple yet effective welcome screen that welcomes users to the app.
 ### Deleting Movies
 
 - **Functionality**: Implement swipe-to-delete functionality in the table view, allowing users to swipe on a movie cell to reveal a delete option.
-
-https://github.com/rmondev/iOS-Movie-Database-Application/assets/85075744/36587d49-2b4a-4086-a300-32e5b686eda4
-
 - **Result**: When the user confirms deletion, remove the Movie object from the local data source and update the table view.
 
-<p align="center">
-  <img src="/screenshots/FeedbackScreen.png" alt="FeedbackScreen" style="width:25%;">
-</p>
-
+https://github.com/rmondev/iOS-Movie-Database-Application/assets/85075744/36587d49-2b4a-4086-a300-32e5b686eda4
 
 ### View Movie Details
 
